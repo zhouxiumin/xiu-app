@@ -5,7 +5,7 @@
 
 cmake_minimum_required(VERSION 3.4.1)
 
-set(LIB_DIR ${CMAKE_SOURCE_DIR}/../../../cppLibs)
+set(LIB_DIR ${CMAKE_SOURCE_DIR}/../../../jniLibs)
 
 set(OPENBLAS_DIR ${LIB_DIR}/openblas)
 
